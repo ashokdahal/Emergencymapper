@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/plugins/Emergency_Mapper">
+    <file>resources/images/head.png</file>
+    <file>icon.png</file>
+    <file>resources/images/head.png</file>
+    <file>resources/images/test.png</file>
+  </qresource>
+</RCC>
